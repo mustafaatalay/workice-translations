@@ -2,12 +2,12 @@
 
 return [
 
-    'verification_email_subject' => 'Account Verification',
+    'verification_email_subject' => 'Hesap Doğrulama',
 
     // error view
-    'verification_error_header' => 'Verification failed',
-    'verification_error_message' => 'Your account could not be verified.',
-    'verification_error_back_button' => 'Back',
-    'resend' => 'Resend'
+    'verification_error_header' => 'Doğrulama Başarısız',
+    'verification_error_message' => 'Hesabınız Doğrulamadı.',
+    'verification_error_back_button' => 'Geri',
+    'resend' => 'Tekrar Gönder'
 
 ];
